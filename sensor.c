@@ -1,3 +1,6 @@
+//Proyecto: Sistema SCADA Industrial
+//Autor: Ivan Rodriguez Nuñez
+//Fecha: Mayo 2026
 #include <stdio.h>
 #include <string.h>
 
